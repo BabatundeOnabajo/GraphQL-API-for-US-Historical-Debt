@@ -1,0 +1,8 @@
+type Query {
+    TwoThousandAndFourteen: String
+    TwoThousandAndFifteen: String
+    TwoThousandAndSixteen: String
+    TwoThousandAndSeventeen: String
+    TwoThousandAndEighteen: String
+
+}
